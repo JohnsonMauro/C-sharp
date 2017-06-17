@@ -6,3 +6,4 @@ Repositório criado com base nos exercícios do Curso Refatoração para JS Func
 
 Playlist: https://www.youtube.com/watch?v=LVvoSRrkk_g&list=PL77JVjKTJT2hExCayDzVexHmMqb88GF07
 
+Os exercícios propostos lá, serão aqui passados para C# mostrando a possibilidade de desenvolver de forma funcional para a mesma e assim aprimorar o paradigma funcional!
